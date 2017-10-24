@@ -89,6 +89,11 @@ Packet payload ("data "property) was used to transmit a sequence
 number. This sequence number was used to connect the log of transmitted packets
 with basestation reports.
 
+## Citation
+
+If this dataset is useful for you, please cite the following paper:
+T. Solc, T. Gale, C.Fortuna, [Optimization of Ultra-Narrowband Wireless Communication: an Experimental Case Study](https://www.researchgate.net/profile/Carolina_Fortuna/publication/316605730_Optimization_of_Ultra-Narrowband_Wireless_Communication_an_Experimental_Case_Study/links/590b6cee0f7e9b7fed8f640b/Optimization-of-Ultra-Narrowband-Wireless-Communication-an-Experimental-Case-Study.pdf), In the Proc of IEEE Infocom CNERT workshop.
+
 ## Contact
 
 For any additional information please contact **tomaz.solc@ijs.si**
